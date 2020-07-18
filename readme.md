@@ -25,7 +25,7 @@
 
 Foi desenvolvido nessa desafio um aplicativo Mobile, Go Restaurant Mobile, nesse aplicativo pode ser escolhido o prato de sua prefencia filtrando por categoria ou nome do prato, pode-se adicionar extras no prato e posteriormente marca-lo como favorito, esse aplicativo também possui uma função de pedido da qual o cliente confirma com o estabelecimento o pedido e aguarda a entrega
 
-<img alt="GoStack" style="margin:0 auto, border-radius:10px" src="./desafio-11-go-restaurant-mobile.gif" />
+<img alt="GoStack" style="margin:0 auto;border-radius:10px" src="./desafio-11-go-restaurant-mobile.gif" />
 
 ## :calendar: Entrega
 
