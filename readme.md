@@ -1,7 +1,7 @@
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
 
 <h3 align="center">
-  Desafio 10: Go Restaurant Web
+  Desafio 11: Go Restaurant Mobile
 </h3>
 
 <p align="center">“Não espere resultados brilhantes se suas metas não forem claras”!</blockquote>
