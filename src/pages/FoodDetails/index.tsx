@@ -143,7 +143,7 @@ const FoodDetails: React.FC = () => {
 
   async function handleFinishOrder(): Promise<void> {
 
-    const data  = {food,extras}
+    const data  = {...food,extras}
      
    await  api.post('/orders', data)
 
